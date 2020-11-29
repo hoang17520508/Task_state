@@ -1,0 +1,33 @@
+.back_ground{
+    background-image: url(./imgGlass/background.jpg);
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    background-color: rgba(0, 0, 0, 0.199);
+    height: 100px;
+    text-align: center;
+    align-self:center;
+   padding-top: 10px;
+}
+.model{
+    position: relative;
+
+}
+.glass{
+    position: absolute;
+top: 25%;
+left: 25%;
+width: 50%;
+height: 15%;
+
+}
+.overlay{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    background-color: rgba(189, 138, 44, 0.548);
+    width: 100%;
+}
